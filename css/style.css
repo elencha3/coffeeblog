@@ -72,9 +72,9 @@ img {
     background-position: center center;
 }
 .header__texto {
-   text-align: center;
-   color: var(--blanco);
-   margin-top: 5rem;
+    text-align: center;
+    color: var(--blanco);
+    margin-top: 5rem;
 }
 @media (min-width: 768px) {
     .header__texto {
@@ -122,7 +122,6 @@ img {
         column-gap: 4rem;
     }
 }
-
 .entrada {
     border-bottom: 1px solid var(--gris);
     margin-bottom: 2rem;
@@ -143,7 +142,6 @@ img {
     margin-bottom: 2rem;
     border: none;
 }
-
 @media (min-width: 768px) {
     .boton {
         display: inline-block;
@@ -163,7 +161,6 @@ img {
 .cursos {
     list-style: none;
 }
-
 .widget-curso {
     border-bottom: 1px solid var(--gris);
     margin-bottom: 2rem;
@@ -212,7 +209,7 @@ img {
     }
 }
 .curso:last-of-type {
-   border: none;
+    border: none;
 }
 .curso__label {
     font-family: var(--fuenteHeading);
@@ -227,7 +224,6 @@ img {
 }
 
 /** Contacto **/
-
 .error {
     background-color: rgb(185, 0, 0);
     text-align: center;
